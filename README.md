@@ -2,7 +2,9 @@
 
 > Fantastic and minimal zsh prompt for incredible people
 
-<div style="text-align:center"><img src="http://g.recordit.co/ZmSk9AOeo3.gif" width="360"></div>
+<div style="text-align:center">
+  <img style="text-align:center" src="http://g.recordit.co/ZmSk9AOeo3.gif" width="360" />
+</div>
 
 
 
