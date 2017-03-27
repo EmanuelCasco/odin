@@ -2,7 +2,7 @@
 
 > Fantastic and minimal zsh prompt for incredible people
 
-<img src="screenshot.png" width="864">
+<img src="http://g.recordit.co/ZmSk9AOeo3.gif" width="864">
 
 
 ## Overview
