@@ -1,6 +1,7 @@
 # Odín
 
 A ZSH theme optimized for people who use:
+
 - Solarized
 - Git
 - Unicode-compatible fonts and terminals (I recommend iTerm2 + Menlo)
@@ -12,8 +13,8 @@ A ZSH theme optimized for people who use:
 
 ## What does it show?
 
+- Prompt format is: *"⌁ [hh:mm:ss] username ❯"*
 - If the previous command failed the arrow will change its color to **red**
-- [Time] User
 - Git status
   - Show the repository name
   - Show the branch name
